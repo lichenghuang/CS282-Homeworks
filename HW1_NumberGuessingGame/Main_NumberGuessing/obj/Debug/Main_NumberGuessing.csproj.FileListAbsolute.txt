@@ -1,0 +1,11 @@
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CS282-Homeworks\HW1_NumberGuessingGame\Main_NumberGuessing\bin\Debug\Main_NumberGuessing.exe.config
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CS282-Homeworks\HW1_NumberGuessingGame\Main_NumberGuessing\bin\Debug\Main_NumberGuessing.exe
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CS282-Homeworks\HW1_NumberGuessingGame\Main_NumberGuessing\bin\Debug\Main_NumberGuessing.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CS282-Homeworks\HW1_NumberGuessingGame\Main_NumberGuessing\bin\Debug\EasyMathLibrary.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CS282-Homeworks\HW1_NumberGuessingGame\Main_NumberGuessing\bin\Debug\EasyMathLibrary.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CS282-Homeworks\HW1_NumberGuessingGame\Main_NumberGuessing\obj\Debug\Main_NumberGuessing.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CS282-Homeworks\HW1_NumberGuessingGame\Main_NumberGuessing\obj\Debug\Main_NumberGuessing.Properties.Resources.resources
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CS282-Homeworks\HW1_NumberGuessingGame\Main_NumberGuessing\obj\Debug\Main_NumberGuessing.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CS282-Homeworks\HW1_NumberGuessingGame\Main_NumberGuessing\obj\Debug\Main_NumberGuessing.exe
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CS282-Homeworks\HW1_NumberGuessingGame\Main_NumberGuessing\obj\Debug\Main_NumberGuessing.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CS282-Homeworks\HW1_NumberGuessingGame\Main_NumberGuessing\obj\Debug\Main_NumberGuessing.GuessGameForm.resources
